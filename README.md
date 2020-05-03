@@ -1,4 +1,4 @@
-# Image-Processing-using-MATLAB
+# Image Processing using MATLAB
 Image Processing using MATLAB
 
 Based on the book Digital Image Processing by Rafael C. Gonzalez and Richard E. Woods
